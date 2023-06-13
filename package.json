@@ -1,0 +1,33 @@
+{
+  "name": "stylo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaiezPapasiddhi/Stylo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaiezPapasiddhi/Stylo/issues"
+  },
+  "homepage": "https://github.com/FaiezPapasiddhi/Stylo#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "daisyui": "^3.0.3",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "flowbite": "^1.6.5",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.7.0",
+    "tw-elements": "^1.0.0-beta2"
+  }
+}

@@ -1829,7 +1829,7 @@ body {
   }
 
   .md\:ml-20 {
-    margin-left: 5rem;
+    margin-left: 18rem;
   }
 
   .md\:ml-auto {
@@ -1906,10 +1906,10 @@ body {
     border-width: 0px;
   }
 
-  .md\:px-20 {
+  /* .md\:px-20 {
     padding-left: 5rem;
     padding-right: 5rem;
-  }
+  } */
 
   .md\:px-8 {
     padding-left: 2rem;
@@ -1988,6 +1988,9 @@ body {
   }
 }
 
+.max-w-7xl{
+    max-width: 89rem !important;
+}
 input#checked-checkbox {
   color: #000;
 }
@@ -2130,8 +2133,10 @@ input:checked + label {
 }
 
 
-
-
+/* 
+.imageMain{
+  margin-left: 11rem;
+} */
 
 
 

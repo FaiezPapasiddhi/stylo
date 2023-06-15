@@ -54,6 +54,9 @@ body {
         justify-content: center;
         align-items: center;
     }
+    .leftimg{
+      margin-left: 0rem;
+    }
 }
 
 
